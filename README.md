@@ -13,23 +13,23 @@ Hamming Code Simulator, kullanıcının girdiği veriyi Hamming kodu kullanarak 
 ## Kurulum ve Çalıştırma
 
 1. *Depoyu Klonlayın*
-
-    bash
+    
+     ```bash
     git clone https://github.com/Ah2m1et/HammingErrorCorrectingCodeSimulator-With-Java-Swing.git
     cd HammingErrorCorrectingCodeSimulator-With-Java-Swing
-    
+     ```
 
 2. *Proje Dosyalarını Derleyin*
 
-    bash
+     ```bash
     javac HammingCodeSimulator.java
-    
+     ```
 
 3. *Uygulamayı Çalıştırın*
 
-    bash
+     ```bash
     java HammingCodeSimulator
-    
+     ```
 
 ## Kullanım
 
