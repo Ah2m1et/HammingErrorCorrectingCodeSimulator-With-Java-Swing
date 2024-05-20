@@ -50,7 +50,12 @@ Hamming Code Simulator, kullanıcının girdiği veriyi Hamming kodu kullanarak 
 
 ## Ekran Görüntüsü
 
-![Ekran Görüntüsü](Ekran görüntüsü 2024-05-20 193906.png)
+![Ekran görüntüsü 2024-05-20 193906](https://github.com/Ah2m1et/HammingErrorCorrectingCodeSimulator-With-Java-Swing/assets/103003160/293fbf9e-c7e5-4fd8-97f0-cfb9b3e2f3a8)
+
+## YouTube Linki
+
+https://youtu.be/9K8UPv8QnMg?si=YF6yzq3UX6WUs9a7
+
 
 ## Geliştirme
 
